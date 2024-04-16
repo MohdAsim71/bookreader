@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333851808126",
+    "project_id": "jetareader-f3094",
+    "storage_bucket": "jetareader-f3094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333851808126:android:7f78b403b3e8eea047232f",
+        "android_client_info": {
+          "package_name": "com.example.bookreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTzSY7MnZP8PPQJypw096cA2h6-hBnQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
